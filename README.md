@@ -1,10 +1,13 @@
-- 👋 Hi, I’m gouravsharma
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning c++
-- 💞️ I’m looking to collaborate on imetus
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👋 Hi, I'm Gourav Sharma  
+I'm a passionate **C++ Developer** from India.
+
+- 👀 I’m interested in **competitive programming**, **algorithm design**, and **software development**.
+- 🌱 I’m currently enhancing my skills in C++ by developing **data structures and algorithms projects**.
+- 💞️ I’m looking to collaborate on **'Imetus'**, a project focused on [brief description of the project].
+- 📫 How to reach me: [your-email@example.com](gourav2006sharmaji@gmail.com)
+- 😄 Pronouns: **He/Him**
+- ⚡ Fun fact: I love solving complex puzzles and have a collection of over 100 Rubik's cubes.
+
 
 <!---
 gouravsharmaji/gouravsharmaji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
