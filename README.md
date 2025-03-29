@@ -4,7 +4,7 @@ I'm a passionate **C++ Developer** from India.
 - 👀 I’m interested in **competitive programming**, **algorithm design**, and **software development**.
 - 🌱 I’m currently enhancing my skills in C++ by developing **data structures and algorithms projects**.
 - 💞️ I’m looking to collaborate on **'Imetus'**, a project focused on [brief description of the project].
-- 📫 How to reach me: [your-email@example.com](gourav2006sharmaji@gmail.com)
+- 📫 How to reach me: (gourav2006sharmaji@gmail.com)
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: I love solving complex puzzles and have a collection of over 100 Rubik's cubes.
 
