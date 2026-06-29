@@ -1,3 +1,4 @@
+![Banner](https://your-image-link.png)
 # 👋 Hi, I'm Gourav Sharma
 
 🎓 B.Tech Computer Science Engineering (Big Data & Cloud Engineering – IMPETUS) student at SVVV, Indore.
