@@ -1,5 +1,6 @@
-![Banner](<img width="945" height="282" alt="Screenshot 2026-06-29 174216" src="https://github.com/user-attachments/assets/13dc0291-a3c1-4cfc-83ab-2ab163676665" />
-)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/13dc0291-a3c1-4cfc-83ab-2ab163676665" width="100%">
+</p>
 # 👋 Hi, I'm Gourav Sharma
 
 🎓 B.Tech Computer Science Engineering (Big Data & Cloud Engineering – IMPETUS) student at SVVV, Indore.
