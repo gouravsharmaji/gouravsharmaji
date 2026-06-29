@@ -1,78 +1,81 @@
 # 👋 Hi, I'm Gourav Sharma
 
-🎓 **B.Tech Computer Science Engineering (Big Data & Cloud Engineering – IMPETUS)** Student at SVVV, Indore.
+🎓 B.Tech Computer Science Engineering (Big Data & Cloud Engineering – IMPETUS) student at SVVV, Indore.
 
-💻 Passionate about **Java Full Stack Development, Cloud Computing, Big Data Technologies, Generative AI, and Software Development**.
+💻 Passionate about **Full Stack Development, Cloud Computing, Big Data Engineering, and Generative AI**.
+
+---
 
 ## 🚀 About Me
 
-* 🌱 Currently learning **Java Full Stack Development**, Cloud Computing, Big Data Technologies, and Generative AI.
-* 💡 Skilled in **C, C++, Java, HTML, CSS, JavaScript, Node.js, Express.js, MongoDB, MySQL, Git, and GitHub**.
-* 🔭 Working on **Full Stack Web Development Projects** and improving my **Data Structures & Algorithms** skills.
-* ☁️ Interested in **Cloud Computing, Data Engineering, Big Data, and AI-powered solutions**.
-* 👯 Open to collaborating on **Web Development, Open Source, Cloud-Based, and AI Projects**.
-* 🎯 Career Goal: To become a **Cloud & Big Data Engineer** and build scalable, data-driven software solutions.
+- 🌱 Currently improving my skills in **Java Full Stack Development, Cloud Computing, and DSA**
+- 💡 Strong knowledge of **C, C++, Java, JavaScript, HTML, CSS, Node.js, Express.js, MongoDB, MySQL**
+- 🔭 Working on **real-world web development projects & internship tasks**
+- ☁️ Interested in **Cloud Computing, Data Engineering & AI-powered solutions**
+- 👯 Open to **Open Source, Web Development & Cloud Projects**
+- 🎯 Goal: Become a **Cloud & Big Data Engineer**
 
-## 🏆 Certifications & Achievements
+---
 
-* 🎖️ Completed **Accenture Developer & Technology Job Simulation**.
-* 🎖️ Completed **Tata GenAI Powered Data Analytics Job Simulation**.
-* 🎖️ Completed **Verizon Cloud Platform Job Simulation**.
-* 🎖️ Certified **C & C++ Trainee** from **Infoviaan Technologies** with **First Grade (A)**.
-* 🎖️ Completed **Git Training** from Simplilearn SkillUp.
-* 🎖️ Trained in **Google Cloud AI Studio** and Generative AI tools.
-* 🎖️ Developed **Data Visualization Skills** through HP LIFE.
-* 🎖️ Strengthened **Communication & Teamwork Skills** through Reliance Foundation.
-* 🎖️ Certified in **Computer Basics & IT Literacy** by MSME.
-
-## 🛠️ Technologies & Tools
+## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
-
-* C
-* C++
-* Java
-* JavaScript
+- C
+- C++
+- Java
+- JavaScript
 
 ### 🌐 Frontend
-
-* HTML5
-* CSS3
-* Bootstrap
+- HTML5
+- CSS3
+- Bootstrap
 
 ### ⚙️ Backend
-
-* Java
-* Node.js
-* Express.js
+- Node.js
+- Express.js
+- Java (Core & Advanced)
 
 ### 🗄️ Database
-
-* MongoDB
-* MySQL
+- MongoDB
+- MySQL
 
 ### ☁️ Cloud & Data
-
-* Google Cloud
-* Big Data Fundamentals
-* Data Analytics
-* Data Visualization
+- Google Cloud Basics
+- Data Analytics
+- Big Data Fundamentals
 
 ### 🔧 Tools
+- Git & GitHub
+- VS Code
+- Eclipse
 
-* Git
-* GitHub
-* VS Code
-* Eclipse
+---
+
+## 🏆 Achievements & Certifications
+
+- 🎖 Accenture Developer & Technology Simulation
+- 🎖 Tata GenAI Data Analytics Simulation
+- 🎖 Verizon Cloud Platform Simulation
+- 🎖 C & C++ Certified (Infoviaan Technologies)
+- 🎖 Git Training (Simplilearn SkillUp)
+- 🎖 Google Cloud AI & GenAI Exposure
+- 🎖 HP LIFE Data Visualization Training
+- 🎖 MSME IT Literacy Certification
+
+---
 
 ## 📫 Connect With Me
 
-* 📧 Email: [gourav2006sharmaji@gmail.com](mailto:gourav2006sharmaji@gmail.com)
-* 🐙 GitHub: https://github.com/gouravsharmaji
-* 💼 LinkedIn: https://www.linkedin.com/in/gourav-sharma-254a9121a
+- 📧 Email: gourav2006sharmaji@gmail.com  
+- 🐙 GitHub: https://github.com/gouravsharmaji  
+- 💼 LinkedIn: https://www.linkedin.com/in/gourav-sharma-254a9121a  
+
+---
 
 ## ⚡ Fun Fact
 
-💡 I enjoy learning emerging technologies, solving coding challenges, and building real-world projects that create impact.
+💡 I love building projects, solving coding problems, and learning new technologies every day.
 
-🚀 **Always Learning | Always Building | Always Growing**
+---
+
+🚀 *Always Learning | Always Building | Always Growing*
